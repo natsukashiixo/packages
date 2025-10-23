@@ -5,12 +5,14 @@ android-tools
 anki-bin
 ansible
 antimicrox
+app2unit
 arch-install-scripts
 arianna
 ark
 atlauncher-bin
 atool
 atop
+aubio
 aurorae
 base
 base-devel
@@ -23,9 +25,11 @@ brave-bin
 breeze
 breeze-gtk
 breeze-plymouth
+brightnessctl
 btop
 btrfs-progs
 bzmenu
+caelestia-shell
 calc
 cava
 cbonsai
@@ -55,6 +59,7 @@ fastfetch
 fcitx5-configtool
 fcitx5-mozc
 firefox
+fish
 flatpak-kcm
 fuseiso
 ghostty
@@ -219,6 +224,7 @@ qqc2-breeze-style
 qt5-wayland
 qt5ct
 qt6-wayland
+quickshell-git
 rofi
 rsync
 satty
@@ -233,6 +239,7 @@ starship
 steam
 sunshine-git
 svgpart
+swappy
 systemsettings
 systester
 thorium-browser-bin

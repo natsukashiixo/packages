@@ -12,6 +12,7 @@ dtrx
 electron37-bin
 google-breakpad
 gpu-screen-recorder
+gpu-screen-recorder-debug
 greetd-regreet-git
 helium-browser-bin
 heynote

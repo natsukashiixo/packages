@@ -141,6 +141,7 @@ linux-bazzite-bin
 linux-firmware
 linux-headers
 linux-zen
+linux-zen-headers
 localsend
 logrotate
 lsd
@@ -261,6 +262,7 @@ ttf-cascadia-mono-nerd
 ttf-cousine-nerd
 ttf-d2coding-nerd
 ttf-daddytime-mono-nerd
+ttf-dejavu
 ttf-dejavu-nerd
 ttf-envycoder-nerd
 ttf-fantasque-nerd

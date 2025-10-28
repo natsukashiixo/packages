@@ -58,6 +58,7 @@ exfat-utils
 fastfetch
 fcitx5-configtool
 fcitx5-mozc
+fd
 firefox
 fish
 flatpak-kcm
@@ -70,6 +71,7 @@ greetd
 greetd-regreet-git
 grim
 gst-plugin-pipewire
+gum
 gvfs
 gwenview
 helium-browser-bin

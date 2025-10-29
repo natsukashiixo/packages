@@ -18,9 +18,13 @@ helium-browser-bin
 heynote
 hyprshot-git
 iwmenu
+lib32-libjpeg6-turbo
+lib32-libjpeg6-turbo-debug
 libcava
 libgbinder
 libglibutil
+libjpeg6-turbo
+libjpeg6-turbo-debug
 linux-bazzite-bin
 localsend
 nordic-theme

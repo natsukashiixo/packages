@@ -41,6 +41,7 @@ colord-kde
 composer
 cronie
 cursor-bin
+ddcci-driver-linux-dkms
 dhcpcd
 discord_arch_electron
 discover

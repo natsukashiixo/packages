@@ -20,8 +20,6 @@ heynote
 hyprshot-git
 iwmenu
 libcava
-libgbinder
-libglibutil
 linux-bazzite-bin
 localsend
 nordic-theme
@@ -31,7 +29,6 @@ phonon-qt6-mpv
 pinta
 pngcheck
 proton-ge-custom-bin
-python-gbinder
 python-materialyoucolor
 quickshell-git
 slack-desktop
@@ -43,7 +40,6 @@ ttf-rubik-vf
 ttf-tahoma
 vesktop-bin
 waybar-cava
-waydroid
 wl-gammarelay
 wpaperd-git
 xpadneo-dkms

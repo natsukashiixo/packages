@@ -31,7 +31,6 @@ brightnessctl
 btop
 btrfs-progs
 bzmenu
-caelestia-shell
 calc
 cava
 cbonsai
@@ -117,6 +116,7 @@ koko
 kolourpaint
 kpipewire
 krdp
+krita
 kruler
 kscreen
 kscreenlocker
@@ -194,7 +194,6 @@ pacman-contrib
 paru
 pavucontrol
 php
-pinta
 pipewire
 pipewire-alsa
 pipewire-jack

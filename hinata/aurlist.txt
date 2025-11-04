@@ -3,8 +3,6 @@ app2unit
 atlauncher-bin
 brave-bin
 bzmenu
-caelestia-cli
-caelestia-shell
 cbonsai
 cursor-bin
 ddcci-driver-linux-dkms
@@ -14,6 +12,7 @@ electron37-bin
 electron39-bin
 google-breakpad
 gpu-screen-recorder
+gpu-screen-recorder-debug
 greetd-regreet-git
 helium-browser-bin
 heynote
@@ -26,7 +25,6 @@ nordic-theme
 otf-jost
 paru
 phonon-qt6-mpv
-pinta
 pngcheck
 proton-ge-custom-bin
 python-materialyoucolor

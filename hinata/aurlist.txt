@@ -11,8 +11,6 @@ dtrx
 electron37-bin
 electron39-bin
 google-breakpad
-gpu-screen-recorder
-gpu-screen-recorder-debug
 greetd-regreet-git
 helium-browser-bin
 heynote
@@ -27,14 +25,11 @@ paru
 phonon-qt6-mpv
 pngcheck
 proton-ge-custom-bin
-python-materialyoucolor
 quickshell-git
 slack-desktop
 systester
 thorium-browser-bin
 trackma-git
-ttf-material-symbols-variable-git
-ttf-rubik-vf
 ttf-tahoma
 vesktop-bin
 waybar-cava

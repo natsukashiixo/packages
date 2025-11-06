@@ -323,7 +323,6 @@ vulkan-nouveau
 vulkan-radeon
 wacomtablet
 waybar-cava
-waydroid
 wev
 wget
 wine

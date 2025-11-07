@@ -129,7 +129,6 @@ kwin-x11
 kwrited
 layer-shell-qt
 lib32-gnutls
-lib32-nvidia-utils
 lib32-vulkan-nouveau
 libatomic_ops
 libcava
@@ -166,8 +165,8 @@ noto-fonts-cjk
 noto-fonts-emoji
 npm
 ntfs-3g
-nvidia-dkms
-nvidia-settings
+nvidia-open-dkms
+nvidia-utils
 nvtop
 nwg-look
 obs-studio

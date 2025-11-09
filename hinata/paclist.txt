@@ -219,6 +219,7 @@ polkit-kde-agent
 powerdevil
 print-manager
 proton-ge-custom-bin
+python-mutagen
 python-pillow
 python-pipx
 python-pyqt5
@@ -349,6 +350,7 @@ xpadneo-dkms
 xterm
 yakuake
 yay
+yt-dlp
 zathura
 zathura-pdf-poppler
 zram-generator

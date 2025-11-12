@@ -129,6 +129,7 @@ kwin-x11
 kwrited
 layer-shell-qt
 lib32-gnutls
+lib32-nvidia-utils
 lib32-vulkan-nouveau
 libatomic_ops
 libcava

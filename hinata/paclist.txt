@@ -50,6 +50,7 @@ docker
 docker-compose
 dolphin
 dosbox
+dosfstools
 drkonqi
 dtrx
 dunst
@@ -232,6 +233,7 @@ qt5ct
 qt6-wayland
 quickshell-git
 rofi
+rpi-imager
 rsync
 satty
 sddm-kcm

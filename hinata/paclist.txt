@@ -105,6 +105,7 @@ kdecoration
 kdegraphics-thumbnailers
 kdeplasma-addons
 keepassxc
+kernel-modules-hook
 kexec-tools
 kgamma
 kglobalacceld

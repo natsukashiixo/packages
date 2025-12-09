@@ -327,6 +327,7 @@ vulkan-nouveau
 vulkan-radeon
 wacomtablet
 waybar-cava
+weechat
 wev
 wget
 wine

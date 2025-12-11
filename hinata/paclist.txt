@@ -62,6 +62,7 @@ fastfetch
 fcitx5-configtool
 fcitx5-mozc
 fd
+fio
 firefox
 fish
 flatpak-kcm

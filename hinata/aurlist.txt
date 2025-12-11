@@ -9,13 +9,10 @@ ddcci-driver-linux-dkms
 discord_arch_electron
 dtrx
 electron37-bin
-electron37-bin-debug
 electron39-bin
-electron39-bin-debug
 google-breakpad
 greetd-regreet-git
 helium-browser-bin
-helium-browser-bin-debug
 heynote
 hyprshot-git
 iwmenu
@@ -40,4 +37,3 @@ wl-gammarelay
 wpaperd-git
 xpadneo-dkms
 yay
-yay-debug

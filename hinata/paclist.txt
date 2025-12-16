@@ -356,6 +356,7 @@ xpadneo-dkms
 xterm
 yakuake
 yay
+yay-debug
 yt-dlp
 zathura
 zathura-pdf-poppler

@@ -13,7 +13,6 @@ electron39-bin
 google-breakpad
 greetd-regreet-git
 helium-browser-bin
-helium-browser-bin-debug
 heynote
 hyprshot-git
 iwmenu
@@ -23,7 +22,6 @@ localsend
 nordic-theme
 otf-jost
 paru
-paru-debug
 phonon-qt6-mpv
 pngcheck
 proton-ge-custom-bin
@@ -40,3 +38,4 @@ wl-gammarelay
 wpaperd-git
 xpadneo-dkms
 yay
+yay-debug

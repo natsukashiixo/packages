@@ -223,6 +223,7 @@ polkit-kde-agent
 powerdevil
 print-manager
 proton-ge-custom-bin
+protonhax
 python-mutagen
 python-pillow
 python-pipx

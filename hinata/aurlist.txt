@@ -25,6 +25,7 @@ paru
 phonon-qt6-mpv
 pngcheck
 proton-ge-custom-bin
+protonhax
 quickshell-git
 slack-desktop
 sunshine-git

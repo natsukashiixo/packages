@@ -176,6 +176,7 @@ nwg-look
 obs-studio
 ocean-sound-theme
 okular
+openrgb
 openssh
 otf-aurulent-nerd
 otf-codenewroman-nerd

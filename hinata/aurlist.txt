@@ -10,7 +10,6 @@ discord_arch_electron
 dtrx
 electron37-bin
 electron39-bin
-google-breakpad
 greetd-regreet-git
 helium-browser-bin
 heynote
@@ -26,7 +25,6 @@ phonon-qt6-mpv
 pngcheck
 proton-ge-custom-bin
 protonhax
-quickshell-git
 slack-desktop
 sunshine-git
 systester

@@ -235,7 +235,6 @@ qqc2-breeze-style
 qt5-wayland
 qt5ct
 qt6-wayland
-quickshell-git
 rofi
 rpi-imager
 rsync

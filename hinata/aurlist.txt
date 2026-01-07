@@ -34,7 +34,6 @@ ttf-tahoma
 vesktop-bin
 waybar-cava
 wl-gammarelay
-wpaperd-git
 xpadneo-dkms
 yay
 yay-debug

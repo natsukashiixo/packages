@@ -238,6 +238,7 @@ qt6-wayland
 rofi
 rpi-imager
 rsync
+rustup
 satty
 sddm-kcm
 skanlite
@@ -342,7 +343,7 @@ wl-gammarelay
 wlr-randr
 wofi
 wpa_supplicant
-wpaperd-git
+wpaperd
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-kde

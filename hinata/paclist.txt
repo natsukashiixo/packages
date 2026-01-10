@@ -197,6 +197,7 @@ oxygen-sounds
 pacman-contrib
 paru
 pavucontrol
+perl-image-exiftool
 php
 pipewire
 pipewire-alsa

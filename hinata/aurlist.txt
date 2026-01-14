@@ -1,5 +1,4 @@
 anki-bin
-anki-bin-debug
 app2unit
 atlauncher-bin
 brave-bin

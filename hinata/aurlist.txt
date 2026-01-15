@@ -32,7 +32,6 @@ thorium-browser-bin
 trackma-git
 ttf-tahoma
 vesktop-bin
-waybar-cava
 wl-gammarelay
 xpadneo-dkms
 yay

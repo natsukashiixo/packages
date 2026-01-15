@@ -330,7 +330,7 @@ vulkan-intel
 vulkan-nouveau
 vulkan-radeon
 wacomtablet
-waybar-cava
+waybar
 weechat
 wev
 wget

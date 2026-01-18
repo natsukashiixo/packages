@@ -1,5 +1,6 @@
 aarch64-linux-gnu-glibc
 adobe-source-sans-fonts
+adwaita-qt6-git
 alacritty
 amd-ucode
 android-tools
@@ -66,11 +67,14 @@ fio
 firefox
 fish
 flatpak-kcm
+fontpreview
 fuseiso
 ghostty
 gimp
 git
 glances
+gnome-themes-extra
+gnome-themes-extra-gtk2
 greetd
 greetd-regreet-git
 grim

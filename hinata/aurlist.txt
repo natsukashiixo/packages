@@ -13,12 +13,9 @@ electron37-bin
 electron39-bin
 fontpreview
 gnome-themes-extra-gtk2
-gnome-themes-extra-gtk2-debug
 greetd-regreet-git
 gtk-engines
-gtk-engines-debug
 gtk2
-gtk2-debug
 helium-browser-bin
 heynote
 hyprshot-git

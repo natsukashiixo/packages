@@ -160,6 +160,7 @@ lsd
 lutris
 lzip
 man-db
+mediainfo
 megacmd
 mesa-utils
 milou

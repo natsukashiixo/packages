@@ -43,6 +43,7 @@ composer
 cronie
 cursor-bin
 ddcci-driver-linux-dkms
+deno
 dhcpcd
 discord_arch_electron
 discover
@@ -329,6 +330,7 @@ uv
 uwsm
 vesktop-bin
 vim
+visidata
 vivaldi
 vlc
 vulkan-intel

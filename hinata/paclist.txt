@@ -84,6 +84,7 @@ gum
 gvfs
 gwenview
 helium-browser-bin
+heroic-games-launcher-bin
 hexyl
 heynote
 htop
@@ -232,6 +233,7 @@ powerdevil
 print-manager
 proton-ge-custom-bin
 protonhax
+protonplus
 python-mutagen
 python-pillow
 python-pipx

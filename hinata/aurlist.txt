@@ -17,6 +17,7 @@ greetd-regreet-git
 gtk-engines
 gtk2
 helium-browser-bin
+heroic-games-launcher-bin
 heynote
 hyprshot-git
 iwmenu
@@ -30,6 +31,8 @@ phonon-qt6-mpv
 pngcheck
 proton-ge-custom-bin
 protonhax
+protonplus
+protonplus-debug
 slack-desktop
 sunshine-git
 systester

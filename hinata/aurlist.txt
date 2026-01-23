@@ -11,6 +11,7 @@ discord_arch_electron
 dtrx
 electron37-bin
 electron39-bin
+electron39-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git

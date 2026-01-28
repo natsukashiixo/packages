@@ -12,6 +12,8 @@ dtrx
 electron37-bin
 electron39-bin
 electron39-bin-debug
+electron40-bin
+electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -23,6 +25,7 @@ heynote
 hyprshot-git
 iwmenu
 libcava
+libcava-debug
 linux-bazzite-bin
 localsend
 nordic-theme

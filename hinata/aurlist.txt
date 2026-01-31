@@ -24,11 +24,13 @@ heroic-games-launcher-bin
 heynote
 hyprshot-git
 iwmenu
+lib32-openssl-1.1
 libcava
 libcava-debug
 linux-bazzite-bin
 localsend
 nordic-theme
+openssl-1.1
 otf-jost
 paru
 phonon-qt6-mpv

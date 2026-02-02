@@ -263,6 +263,7 @@ svgpart
 swappy
 systemsettings
 systester
+terraform
 thorium-browser-bin
 thunar
 thunar-archive-plugin

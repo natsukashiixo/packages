@@ -21,6 +21,7 @@ heroic-games-launcher-bin
 heynote
 hyprshot-git
 iwmenu
+iwmenu-debug
 libcava
 linux-bazzite-bin
 localsend

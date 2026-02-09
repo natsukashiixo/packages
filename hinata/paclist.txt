@@ -99,6 +99,7 @@ imagemagick
 intel-media-driver
 inter-font
 inxi
+ironbar-git
 iwd
 iwmenu
 jq

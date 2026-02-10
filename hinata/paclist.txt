@@ -172,6 +172,7 @@ nano
 ncdu
 net-tools
 nmap
+nodejs
 nordic-theme
 noto-fonts-cjk
 noto-fonts-emoji
@@ -227,6 +228,7 @@ plasma-welcome
 plasma-workspace
 plasma-workspace-wallpapers
 plasma5support
+plocate
 plymouth-kcm
 pngcheck
 polkit-kde-agent

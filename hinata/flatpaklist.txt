@@ -1,0 +1,2 @@
+org.signal.Signal
+org.telegram.desktop

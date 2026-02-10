@@ -36,6 +36,13 @@ pngcheck
 proton-ge-custom-bin
 protonhax
 protonplus
+ruby-arr-pm
+ruby-backports
+ruby-cabin
+ruby-clamp
+ruby-dotenv
+ruby-insist
+ruby-stud
 slack-desktop
 sunshine-git
 systester

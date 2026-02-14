@@ -10,6 +10,7 @@ ddcci-driver-linux-dkms
 discord_arch_electron
 dtrx
 electron39-bin
+electron39-bin-debug
 electron40-bin
 electron40-bin-debug
 fontpreview
@@ -36,6 +37,7 @@ pngcheck
 proton-ge-custom-bin
 protonhax
 protonplus
+protonplus-debug
 ruby-arr-pm
 ruby-backports
 ruby-cabin

@@ -160,6 +160,7 @@ linux-zen-headers
 localsend
 logrotate
 lsd
+lsp-plugins
 lutris
 lzip
 man-db

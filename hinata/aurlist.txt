@@ -10,9 +10,7 @@ ddcci-driver-linux-dkms
 discord_arch_electron
 dtrx
 electron39-bin
-electron39-bin-debug
 electron40-bin
-electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -21,10 +19,8 @@ gtk2
 helium-browser-bin
 heroic-games-launcher-bin
 heynote
-heynote-debug
 hyprshot-git
 ironbar-git
-ironbar-git-debug
 iwmenu
 libcava
 linux-bazzite-bin
@@ -37,14 +33,6 @@ pngcheck
 proton-ge-custom-bin
 protonhax
 protonplus
-protonplus-debug
-ruby-arr-pm
-ruby-backports
-ruby-cabin
-ruby-clamp
-ruby-dotenv
-ruby-insist
-ruby-stud
 slack-desktop
 sunshine-git
 systester

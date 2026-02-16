@@ -152,7 +152,6 @@ libva-intel-driver
 lightdm
 lightdm-gtk-greeter
 linux
-linux-bazzite-bin
 linux-firmware
 linux-headers
 linux-zen

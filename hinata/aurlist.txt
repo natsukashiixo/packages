@@ -10,9 +10,7 @@ ddcci-driver-linux-dkms
 discord_arch_electron
 dtrx
 electron39-bin
-electron39-bin-debug
 electron40-bin
-electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -26,7 +24,6 @@ ironbar-git
 iwmenu
 libcava
 localsend
-localsend-debug
 nordic-theme
 otf-jost
 paru

@@ -33,6 +33,7 @@ btop
 btrfs-progs
 bzmenu
 calc
+calf
 cava
 cbonsai
 cmake

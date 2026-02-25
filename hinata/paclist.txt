@@ -260,6 +260,7 @@ slurp
 smartmontools
 spectacle
 spotify-launcher
+sshfs
 starship
 steam
 sunshine-git

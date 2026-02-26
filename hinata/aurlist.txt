@@ -4,13 +4,16 @@ app2unit
 atlauncher-bin
 brave-bin
 bzmenu
+bzmenu-debug
 cbonsai
 cursor-bin
 ddcci-driver-linux-dkms
 discord_arch_electron
 dtrx
 electron39-bin
+electron39-bin-debug
 electron40-bin
+electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -32,6 +35,7 @@ pngcheck
 proton-ge-custom-bin
 protonhax
 protonplus
+protonplus-debug
 slack-desktop
 sunshine-git
 systester

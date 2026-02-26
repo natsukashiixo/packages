@@ -332,6 +332,7 @@ ttf-ubuntu-nerd
 ttf-victor-mono-nerd
 tumbler
 unarchiver
+unison
 unrar
 unzip
 uv

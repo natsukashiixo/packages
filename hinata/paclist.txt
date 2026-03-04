@@ -266,6 +266,7 @@ steam
 sunshine-git
 svgpart
 swappy
+syncthing-bin
 systemsettings
 systester
 terraform

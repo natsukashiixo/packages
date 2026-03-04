@@ -38,6 +38,8 @@ protonplus
 protonplus-debug
 slack-desktop
 sunshine-git
+syncthing-bin
+syncthing-bin-debug
 systester
 thorium-browser-bin
 trackma-git

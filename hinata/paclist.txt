@@ -36,6 +36,7 @@ calc
 calf
 cava
 cbonsai
+chromium-widevine
 cmake
 cmatrix
 code
@@ -171,6 +172,7 @@ milou
 moreutils
 nano
 ncdu
+neovim
 net-tools
 nmap
 nodejs

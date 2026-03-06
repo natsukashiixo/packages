@@ -58,6 +58,7 @@ dosfstools
 drkonqi
 dtrx
 dunst
+dynamips
 easyeffects
 efibootmgr
 ethtool
@@ -78,6 +79,8 @@ git
 glances
 gnome-themes-extra
 gnome-themes-extra-gtk2
+gns3-gui
+gns3-server
 greetd
 greetd-regreet-git
 grim
@@ -98,6 +101,7 @@ hyprpicker
 hyprshot-git
 hyprsunset
 imagemagick
+inetutils
 intel-media-driver
 inter-font
 inxi
@@ -151,6 +155,7 @@ libksysguard
 libplasma
 libpulse
 libva-intel-driver
+libvirt
 lightdm
 lightdm-gtk-greeter
 linux
@@ -246,6 +251,7 @@ python-pipx
 python-pyqt5
 python-urwid
 qbittorrent
+qemu-full
 qqc2-breeze-style
 qt5-wayland
 qt5ct
@@ -334,6 +340,7 @@ ttf-ubuntu-mono-nerd
 ttf-ubuntu-nerd
 ttf-victor-mono-nerd
 tumbler
+ubridge
 unarchiver
 unison
 unrar
@@ -345,6 +352,7 @@ vim
 visidata
 vivaldi
 vlc
+vpcs
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon

@@ -52,7 +52,6 @@ discover
 dkms
 docker
 docker-compose
-dolphin
 dosbox
 dosfstools
 drkonqi

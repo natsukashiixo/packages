@@ -35,6 +35,7 @@ libcava
 localsend
 nordic-theme
 otf-jost
+packettracer900-bin
 paru
 phonon-qt6-mpv
 pngcheck

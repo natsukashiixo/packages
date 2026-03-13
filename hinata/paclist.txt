@@ -210,6 +210,7 @@ otf-overpass-nerd
 ouch
 oxygen
 oxygen-sounds
+packettracer900-bin
 pacman-contrib
 paru
 pavucontrol

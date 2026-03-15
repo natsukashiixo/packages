@@ -260,6 +260,7 @@ rofi
 rpi-imager
 rsync
 rustup
+rusty-path-of-building
 satty
 sddm-kcm
 skanlite

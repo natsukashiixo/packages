@@ -350,6 +350,9 @@ uv
 uwsm
 vesktop-bin
 vim
+virtualbox
+virtualbox-ext-oracle
+virtualbox-guest-iso
 visidata
 vivaldi
 vlc

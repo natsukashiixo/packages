@@ -43,6 +43,8 @@ slack-desktop
 sunshine-git
 syncthing-bin
 systester
+teams-for-linux
+teams-for-linux-debug
 thorium-browser-bin
 trackma-git
 ttf-tahoma

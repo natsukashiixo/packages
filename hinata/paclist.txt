@@ -278,6 +278,7 @@ swappy
 syncthing-bin
 systemsettings
 systester
+teams-for-linux
 terraform
 thorium-browser-bin
 thunar

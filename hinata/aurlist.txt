@@ -8,11 +8,10 @@ cbonsai
 chromium-widevine
 cursor-bin
 ddcci-driver-linux-dkms
-discord_arch_electron
 dtrx
 dynamips
-electron39-bin
 electron40-bin
+electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 gns3-gui
@@ -23,6 +22,7 @@ gtk2
 helium-browser-bin
 heroic-games-launcher-bin
 heynote
+heynote-debug
 hyprshot-git
 ironbar-git
 iwmenu
@@ -38,12 +38,12 @@ pngcheck
 proton-ge-custom-bin
 protonhax
 protonplus
+rider
 rusty-path-of-building
 slack-desktop
 sunshine-git
 syncthing-bin
 systester
-teams-for-linux
 teams-for-linux-debug
 thorium-browser-bin
 trackma-git

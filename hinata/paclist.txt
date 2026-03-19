@@ -39,7 +39,6 @@ cbonsai
 chromium-widevine
 cmake
 cmatrix
-code
 colord-kde
 composer
 cronie
@@ -47,7 +46,6 @@ cursor-bin
 ddcci-driver-linux-dkms
 deno
 dhcpcd
-discord_arch_electron
 discover
 dkms
 docker
@@ -256,6 +254,7 @@ qqc2-breeze-style
 qt5-wayland
 qt5ct
 qt6-wayland
+rider
 rofi
 rpi-imager
 rsync
@@ -278,7 +277,6 @@ swappy
 syncthing-bin
 systemsettings
 systester
-teams-for-linux
 terraform
 thorium-browser-bin
 thunar

@@ -31,6 +31,7 @@ breeze-plymouth
 brightnessctl
 btop
 btrfs-progs
+bun
 bzmenu
 calc
 calf

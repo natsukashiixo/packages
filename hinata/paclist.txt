@@ -17,6 +17,7 @@ atop
 aubio
 audacity
 aurorae
+baobab
 base
 base-devel
 bat

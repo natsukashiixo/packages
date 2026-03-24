@@ -27,6 +27,7 @@ hyprshot-git
 ironbar-git
 iwmenu
 libcava
+libcava-debug
 localsend
 lua51-curl
 nordic-theme
@@ -40,6 +41,7 @@ protonhax
 protonplus
 rider
 rusty-path-of-building
+rusty-path-of-building-debug
 slack-desktop
 sunshine-git
 syncthing-bin
@@ -53,6 +55,7 @@ vesktop-bin
 virtualbox-ext-oracle
 vpcs
 wl-gammarelay
+wpaperd-git
 xpadneo-dkms
 yay
 yay-debug

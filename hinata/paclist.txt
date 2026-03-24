@@ -376,7 +376,7 @@ wl-gammarelay
 wlr-randr
 wofi
 wpa_supplicant
-wpaperd
+wpaperd-git
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-kde

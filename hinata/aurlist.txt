@@ -11,7 +11,6 @@ ddcci-driver-linux-dkms
 dtrx
 dynamips
 electron40-bin
-electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 gns3-gui
@@ -22,12 +21,10 @@ gtk2
 helium-browser-bin
 heroic-games-launcher-bin
 heynote
-heynote-debug
 hyprshot-git
 ironbar-git
 iwmenu
 libcava
-libcava-debug
 localsend
 lua51-curl
 nordic-theme
@@ -41,12 +38,11 @@ protonhax
 protonplus
 rider
 rusty-path-of-building
-rusty-path-of-building-debug
 slack-desktop
 sunshine-git
+sweep-bin-debug
 syncthing-bin
 systester
-teams-for-linux-debug
 thorium-browser-bin
 trackma-git
 ttf-tahoma

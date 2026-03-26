@@ -245,6 +245,7 @@ print-manager
 proton-ge-custom-bin
 protonhax
 protonplus
+protontricks
 python-mutagen
 python-pillow
 python-pipx

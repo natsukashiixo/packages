@@ -192,6 +192,7 @@ nwg-look
 obs-studio
 ocean-sound-theme
 okular
+openbsd-netcat
 openrgb
 openssh
 otf-aurulent-nerd

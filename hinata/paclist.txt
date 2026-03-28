@@ -38,6 +38,7 @@ calc
 calf
 cava
 cbonsai
+chromium
 chromium-widevine
 cmake
 cmatrix

@@ -6,7 +6,6 @@ brave-bin
 bzmenu
 cbonsai
 chromium-widevine
-cursor-bin
 ddcci-driver-linux-dkms
 dtrx
 dynamips
@@ -22,6 +21,7 @@ helium-browser-bin
 heroic-games-launcher-bin
 heynote
 hyprshot-git
+intellij-idea-ultimate-edition
 ironbar-git
 iwmenu
 libcava
@@ -31,7 +31,6 @@ nordic-theme
 otf-jost
 packettracer900-bin
 paru
-phonon-qt6-mpv
 pngcheck
 proton-ge-custom-bin
 protonhax
@@ -40,7 +39,6 @@ rider
 rusty-path-of-building
 slack-desktop
 sunshine-git
-sweep-bin-debug
 syncthing-bin
 systester
 thorium-browser-bin
@@ -52,6 +50,8 @@ virtualbox-ext-oracle
 vpcs
 wl-gammarelay
 wpaperd-git
+xdg-desktop-portal-termfilechooser-hunkyburrito-git
+xdg-desktop-portal-termfilechooser-hunkyburrito-git-debug
 xpadneo-dkms
 yay
 yay-debug

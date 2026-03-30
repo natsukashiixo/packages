@@ -21,7 +21,6 @@ helium-browser-bin
 heroic-games-launcher-bin
 heynote
 hyprshot-git
-intellij-idea-ultimate-edition
 ironbar-git
 iwmenu
 libcava

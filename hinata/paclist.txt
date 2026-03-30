@@ -37,6 +37,7 @@ chromium-widevine
 cifs-utils
 cmake
 cmatrix
+code
 composer
 cronie
 ddcci-driver-linux-dkms
@@ -98,7 +99,7 @@ hyprsunset
 imagemagick
 inetutils
 intel-media-driver
-intellij-idea-ultimate-edition
+intellij-idea-community-edition
 inter-font
 inxi
 ironbar-git

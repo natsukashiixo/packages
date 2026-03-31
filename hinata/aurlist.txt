@@ -16,6 +16,8 @@ gns3-gui
 gns3-server
 greetd-regreet-git
 gtk-engines
+gtk-sharp-2
+gtk-sharp-2-debug
 gtk2
 helium-browser-bin
 heroic-games-launcher-bin
@@ -26,6 +28,7 @@ iwmenu
 libcava
 localsend
 lua51-curl
+mono-tools
 nordic-theme
 otf-jost
 packettracer900-bin

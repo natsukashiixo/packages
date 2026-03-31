@@ -140,6 +140,9 @@ man-db
 mediainfo
 megacmd
 mesa-utils
+mono
+mono-msbuild
+mono-tools
 moreutils
 mpv
 nano

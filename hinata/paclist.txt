@@ -65,6 +65,7 @@ fd
 fio
 firefox
 fish
+flatpak
 fontpreview
 freerdp
 fuseiso
@@ -330,7 +331,6 @@ wpa_supplicant
 wpaperd-git
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
-xdg-desktop-portal-termfilechooser-hunkyburrito-git
 xdg-user-dirs
 xdg-utils
 xf86-video-amdgpu

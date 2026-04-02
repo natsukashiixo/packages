@@ -1,0 +1,4 @@
+ansible-lint v26.3.0
+cookiecutter v2.6.0
+llm v0.28
+tldr v3.4.3

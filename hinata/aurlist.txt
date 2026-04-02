@@ -10,6 +10,7 @@ ddcci-driver-linux-dkms
 dtrx
 dynamips
 electron40-bin
+electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 gns3-gui
@@ -52,7 +53,6 @@ virtualbox-ext-oracle
 vpcs
 wl-gammarelay
 wpaperd-git
-xdg-desktop-portal-termfilechooser-hunkyburrito-git
 xdg-desktop-portal-termfilechooser-hunkyburrito-git-debug
 xpadneo-dkms
 yay

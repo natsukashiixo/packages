@@ -35,6 +35,7 @@ nordic-theme
 otf-jost
 packettracer900-bin
 paru
+pear-desktop
 pngcheck
 proton-ge-custom-bin
 protonhax

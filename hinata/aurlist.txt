@@ -35,7 +35,6 @@ nordic-theme
 otf-jost
 packettracer900-bin
 paru
-pear-desktop
 pngcheck
 proton-ge-custom-bin
 protonhax
@@ -58,3 +57,4 @@ wpaperd-git
 xpadneo-dkms
 yay
 yay-debug
+youtube-tv-git-debug

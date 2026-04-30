@@ -196,6 +196,7 @@ spotify-launcher
 sshfs
 starship
 steam
+strace
 swappy
 terraform
 thunar

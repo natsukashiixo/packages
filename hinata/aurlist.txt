@@ -1,5 +1,7 @@
 adwaita-qt6-git
 anki-bin
+antimicrox-git
+antimicrox-git-debug
 app2unit
 atlauncher-bin
 brave-bin
@@ -40,6 +42,7 @@ proton-ge-custom-bin
 protonhax
 protonplus
 rider
+rpcs3-git
 rusty-path-of-building
 slack-desktop
 sunshine-git

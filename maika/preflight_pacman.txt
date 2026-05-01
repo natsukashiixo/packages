@@ -34,6 +34,12 @@ docker-compose
 fastfetch
 flatpak
 cifs-utils
+xorg-xrandr
+libinput
+libinput-tools
+dunst
+swayosd
+socat
 mangohud
 lib32-mangohud
 goverlay

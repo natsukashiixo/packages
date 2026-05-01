@@ -5,7 +5,6 @@ alsa-utils
 amd-ucode
 android-tools
 ansible
-antimicrox
 arch-install-scripts
 ark
 aspnet-targeting-pack
@@ -192,6 +191,7 @@ sane
 satty
 slurp
 smartmontools
+socat
 spotify-launcher
 sshfs
 starship

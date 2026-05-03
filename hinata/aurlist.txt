@@ -1,7 +1,6 @@
 adwaita-qt6-git
 anki-bin
 antimicrox-git
-antimicrox-git-debug
 app2unit
 atlauncher-bin
 brave-bin
@@ -26,7 +25,6 @@ heynote
 hyprshot-git
 ironbar-git
 iwmenu
-jellyfin-desktop-debug
 lib32-gst-plugins-base-libs
 lib32-gstreamer
 libcava
@@ -60,4 +58,3 @@ wpaperd-git
 xpadneo-dkms
 yay
 yay-debug
-youtube-tv-git-debug

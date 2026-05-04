@@ -65,6 +65,7 @@ ghostty
 gimp
 git
 glances
+gnome-multi-writer
 gnome-themes-extra
 greetd
 grim
@@ -80,6 +81,7 @@ hyprland
 hyprlock
 hyprpaper
 hyprpicker
+hyprpolkitagent
 hyprsunset
 imagemagick
 inetutils
@@ -298,6 +300,7 @@ xf86-video-amdgpu
 xf86-video-ati
 xf86-video-nouveau
 xorg-server
+xorg-xhost
 xorg-xinit
 xterm
 yazi

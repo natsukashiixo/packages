@@ -51,7 +51,6 @@ trackma-git
 ttf-tahoma
 ubridge
 usbimager
-usbimager-debug
 vesktop-bin
 virtualbox-ext-oracle
 vpcs

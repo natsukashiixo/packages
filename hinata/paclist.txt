@@ -99,6 +99,7 @@ kitty
 krita
 lib32-gnutls
 lib32-nvidia-utils
+lib32-pipewire-jack
 lib32-vulkan-nouveau
 libatomic_ops
 libfido2

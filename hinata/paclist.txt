@@ -148,6 +148,7 @@ openbsd-netcat
 opencv
 openrgb
 openssh
+openvpn
 otf-aurulent-nerd
 otf-codenewroman-nerd
 otf-comicshanns-nerd

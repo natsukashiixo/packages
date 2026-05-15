@@ -13,8 +13,6 @@ dynamips
 electron40-bin
 fontpreview
 gnome-themes-extra-gtk2
-gns3-gui
-gns3-server
 greetd-regreet-git
 gtk-engines
 gtk-sharp-2

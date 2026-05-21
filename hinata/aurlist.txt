@@ -53,7 +53,6 @@ vesktop-bin
 virtualbox-ext-oracle
 vpcs
 wl-gammarelay
-wpaperd-git
 xpadneo-dkms
 yay
 yay-debug

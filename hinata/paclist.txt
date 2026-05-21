@@ -294,6 +294,7 @@ wl-clipboard
 wlr-randr
 wofi
 wpa_supplicant
+wpaperd
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-user-dirs

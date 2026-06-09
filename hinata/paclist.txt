@@ -41,6 +41,7 @@ djvulibre
 dkms
 dmidecode
 docker
+docker-buildx
 docker-compose
 dosbox
 dosfstools
@@ -139,6 +140,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 npm
 ntfs-3g
+nvidia-container-toolkit
 nvidia-open-dkms
 nvidia-utils
 nvtop

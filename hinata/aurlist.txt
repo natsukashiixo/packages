@@ -7,7 +7,7 @@ brave-bin
 bzmenu
 cbonsai
 chromium-widevine
-ddcci-driver-linux-dkms
+ddcci-driver-linux-dkms-git
 dtrx
 dynamips
 electron40-bin
@@ -26,6 +26,7 @@ iwmenu
 lib32-gst-plugins-base-libs
 lib32-gstreamer
 libcava
+libsoup
 localsend
 lua51-curl
 mono-tools
@@ -40,6 +41,7 @@ protonplus
 rider
 rpcs3-git
 rusty-path-of-building
+screamingfrogseospider-jre
 slack-desktop
 sunshine-git
 syncthing-bin
@@ -55,4 +57,3 @@ vpcs
 wl-gammarelay
 xpadneo-dkms
 yay
-yay-debug

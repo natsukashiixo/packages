@@ -1,5 +1,4 @@
 adwaita-qt6-git
-anki-bin
 antimicrox-git
 app2unit
 atlauncher-bin

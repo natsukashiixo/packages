@@ -10,7 +10,6 @@ ddcci-driver-linux-dkms-git
 dtrx
 dynamips
 electron40-bin
-electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -25,7 +24,6 @@ ironbar-git
 iwmenu
 lib32-gst-plugins-base-libs
 lib32-gstreamer
-lib32-gstreamer-debug
 libcava
 libsoup
 localsend

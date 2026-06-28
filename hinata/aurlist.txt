@@ -10,6 +10,7 @@ ddcci-driver-linux-dkms-git
 dtrx
 dynamips
 electron40-bin
+electron40-bin-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -37,6 +38,7 @@ pngcheck
 proton-ge-custom-bin
 protonhax
 protonplus
+protonplus-debug
 rider
 rpcs3-git
 rusty-path-of-building

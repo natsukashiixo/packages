@@ -32,7 +32,6 @@ lua51-curl
 mono-tools
 nordic-theme
 otf-jost
-packettracer900-bin
 paru
 pngcheck
 proton-ge-custom-bin

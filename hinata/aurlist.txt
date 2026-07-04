@@ -51,7 +51,6 @@ ttf-tahoma
 ubridge
 usbimager
 vesktop-bin
-virtualbox-ext-oracle
 vpcs
 wl-gammarelay
 xpadneo-dkms

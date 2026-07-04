@@ -272,9 +272,6 @@ unzip
 uv
 uwsm
 vim
-virtualbox
-virtualbox-guest-iso
-virtualbox-host-modules-arch
 visidata
 vivaldi
 vlc

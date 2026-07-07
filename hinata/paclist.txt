@@ -130,6 +130,7 @@ mono
 mono-msbuild
 moreutils
 mpv
+mtr
 nano
 ncdu
 neovim

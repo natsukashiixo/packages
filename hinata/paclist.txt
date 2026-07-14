@@ -90,6 +90,7 @@ intel-media-driver
 intellij-idea-community-edition
 inter-font
 inxi
+iperf3
 iwd
 jq
 kalk

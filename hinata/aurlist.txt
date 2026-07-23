@@ -20,12 +20,15 @@ gtk2
 helium-browser-bin
 heroic-games-launcher-bin
 heynote
+heynote-debug
 hyprshot-git
 ironbar-git
 iwmenu
 lib32-gst-plugins-base-libs
 lib32-gstreamer
+lib32-gstreamer-debug
 libcava
+libcava-debug
 libsoup
 localsend
 lua51-curl
@@ -50,6 +53,7 @@ thorium-browser-bin
 trackma-git
 ttf-tahoma
 ubridge
+ubridge-debug
 usbimager
 vesktop-bin
 vpcs

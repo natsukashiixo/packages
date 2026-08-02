@@ -52,6 +52,7 @@ efibootmgr
 ethtool
 evtest
 exfat-utils
+expac
 fastfetch
 fcitx5-configtool
 fcitx5-mozc

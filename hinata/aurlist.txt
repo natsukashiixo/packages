@@ -41,6 +41,8 @@ proton-ge-custom-bin
 protonhax
 protonplus
 protonplus-debug
+python-anitopy-git
+python-pkg_resources
 rider
 rpcs3-git
 rusty-path-of-building

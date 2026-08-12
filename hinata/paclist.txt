@@ -20,10 +20,15 @@ bc
 bind
 bluez-tools
 bluez-utils
+brave-bin
 brightnessctl
 btop
 btrfs-progs
 bun
+cachyos-keyring
+cachyos-mirrorlist
+cachyos-v3-mirrorlist
+cachyos-v4-mirrorlist
 calc
 calf
 cava
@@ -34,6 +39,7 @@ cmatrix
 code
 composer
 cronie
+ddcci-driver-linux-dkms-git
 ddcutil
 deno
 dhcpcd
@@ -76,6 +82,8 @@ gst-plugins-base
 gum
 gvfs
 gwenview
+helium-browser-bin
+heroic-games-launcher-bin
 hexyl
 htop
 hypridle
@@ -119,6 +127,7 @@ linux-firmware
 linux-headers
 linux-zen
 linux-zen-headers
+localsend
 logrotate
 lsd
 lsp-plugins
@@ -168,6 +177,7 @@ otf-opendyslexic-nerd
 otf-overpass-nerd
 ouch
 pacman-contrib
+paru
 pavucontrol
 perl-image-exiftool
 php
@@ -179,6 +189,8 @@ plocate
 plymouth
 polkit-kde-agent
 poppler-qt6
+proton-cachyos-native
+protonplus
 protontricks
 python-mutagen
 python-pillow
@@ -274,6 +286,7 @@ unrar
 unzip
 uv
 uwsm
+vesktop-bin
 vim
 visidata
 vivaldi
@@ -307,7 +320,9 @@ xf86-video-nouveau
 xorg-server
 xorg-xhost
 xorg-xinit
+xpadneo-dkms
 xterm
+yay
 yazi
 yt-dlp
 zathura

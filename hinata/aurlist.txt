@@ -2,11 +2,9 @@ adwaita-qt6-git
 antimicrox-git
 app2unit
 atlauncher-bin
-brave-bin
 bzmenu
 cbonsai
 chromium-widevine
-ddcci-driver-linux-dkms-git
 dtrx
 dynamips
 electron40-bin
@@ -16,9 +14,6 @@ gnome-themes-extra-gtk2
 greetd-regreet-git
 gtk-engines
 gtk-sharp-2
-gtk2
-helium-browser-bin
-heroic-games-launcher-bin
 heynote
 heynote-debug
 hyprshot-git
@@ -30,16 +25,13 @@ lib32-gstreamer-debug
 libcava
 libcava-debug
 libsoup
-localsend
 lua51-curl
 mono-tools
 nordic-theme
 otf-jost
-paru
 pngcheck
 proton-ge-custom-bin
 protonhax
-protonplus
 protonplus-debug
 python-anitopy-git
 python-pkg_resources
@@ -57,8 +49,5 @@ ttf-tahoma
 ubridge
 ubridge-debug
 usbimager
-vesktop-bin
 vpcs
 wl-gammarelay
-xpadneo-dkms
-yay

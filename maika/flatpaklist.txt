@@ -1,1 +1,1 @@
-com.github.iwalton3.jellyfin-media-player
+com.github.iwalton3.jellyfin-mpv-shim

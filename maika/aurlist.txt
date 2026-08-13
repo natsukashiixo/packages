@@ -1,0 +1,12 @@
+antimicrox-git
+atlauncher-bin
+bzmenu
+chromium-widevine
+iwmenu
+jack
+jellium-desktop-bin
+litehtml0.9
+proton-ge-custom-bin
+protonhax
+python-pkg_resources
+rpcs3-git

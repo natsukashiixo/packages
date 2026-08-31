@@ -86,6 +86,7 @@ helium-browser-bin
 heroic-games-launcher-bin
 hexyl
 htop
+httpie
 hypridle
 hyprland
 hyprlock

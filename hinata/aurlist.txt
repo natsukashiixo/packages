@@ -7,7 +7,6 @@ cbonsai
 chromium-widevine
 dtrx
 dynamips
-electron40-bin
 fontpreview
 gnome-themes-extra-gtk2
 greetd-regreet-git
@@ -17,14 +16,8 @@ heynote
 hyprshot-git
 ironbar-git
 iwmenu
-lib32-gst-plugins-base-libs
-lib32-gstreamer
-lib32-libcap
-lib32-openal
-lib32-orc
-lib32-speex
+lib32-sdl2-compat
 libcava
-libsoup
 lua51-curl
 mono-tools
 nordic-theme
@@ -39,13 +32,11 @@ rusty-path-of-building
 screamingfrogseospider-jre
 sunshine-git
 syncthing-bin
-syncthing-bin-debug
 systester
 thorium-browser-bin
 trackma-git
 ttf-tahoma
 ubridge
-ubridge-debug
 usbimager
 vpcs
 wl-gammarelay

@@ -25,6 +25,7 @@ brightnessctl
 btop
 btrfs-progs
 bun
+cachyos-gaming-meta
 cachyos-keyring
 cachyos-mirrorlist
 cachyos-v3-mirrorlist
@@ -46,6 +47,7 @@ dhcpcd
 djvulibre
 dkms
 dmidecode
+dms-shell
 docker
 docker-buildx
 docker-compose
@@ -104,9 +106,12 @@ iperf3
 iwd
 jq
 kalk
+kde-cli-tools
 keepassxc
 kernel-modules-hook
 kexec-tools
+khal
+kimageformats
 kitty
 krita
 lib32-gnutls
@@ -135,6 +140,7 @@ lsp-plugins
 lutris
 lzip
 man-db
+matugen
 mediainfo
 megacmd
 mesa-utils
@@ -160,6 +166,7 @@ nvtop
 nwg-look
 obs-studio
 openbsd-netcat
+opencode
 opencv
 openrgb
 openssh
@@ -203,6 +210,7 @@ qemu-full
 qt5-wayland
 qt5ct
 qt6-wayland
+quickshell
 retroarch
 ripgrep
 rofi
@@ -242,6 +250,7 @@ ttf-dejavu
 ttf-dejavu-nerd
 ttf-envycoder-nerd
 ttf-fantasque-nerd
+ttf-fira-code
 ttf-firacode-nerd
 ttf-go-nerd
 ttf-hack

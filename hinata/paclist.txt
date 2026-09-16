@@ -69,6 +69,7 @@ fio
 firefox
 fish
 flatpak
+foliate
 freerdp
 fuseiso
 ghostty

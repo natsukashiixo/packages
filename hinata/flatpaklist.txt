@@ -1,2 +1,3 @@
+org.gnome.Solanum
 org.jellyfin.JellyfinDesktop
 org.telegram.desktop

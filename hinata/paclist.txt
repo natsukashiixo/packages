@@ -78,6 +78,7 @@ git
 glances
 gnome-multi-writer
 gnome-themes-extra
+go
 greetd
 grim
 gst-plugin-pipewire

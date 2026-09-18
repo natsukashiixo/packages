@@ -9,6 +9,8 @@ cbonsai
 chromium-widevine
 dankcalendar-bin
 dankcalendar-bin-debug
+dragon-drop
+dragon-drop-debug
 dsearch-bin
 dsearch-bin-debug
 dtrx

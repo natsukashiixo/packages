@@ -87,7 +87,7 @@ gum
 gvfs
 gwenview
 helium-browser-bin
-heroic-games-launcher-bin
+heroic-games-launcher
 hexyl
 htop
 httpie

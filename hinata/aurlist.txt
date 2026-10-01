@@ -51,6 +51,5 @@ thorium-browser-bin
 trackma-git
 ttf-tahoma
 ubridge
-usbimager
 vpcs
 wl-gammarelay

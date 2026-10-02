@@ -167,6 +167,7 @@ nvidia-utils
 nvtop
 nwg-look
 obs-studio
+obsidian
 openbsd-netcat
 opencode
 opencv

@@ -312,6 +312,7 @@ wayland-utils
 weechat
 wev
 wget
+whois
 wine
 wine-mono
 winetricks

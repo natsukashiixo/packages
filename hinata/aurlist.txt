@@ -15,6 +15,7 @@ dsearch-bin
 dsearch-bin-debug
 dtrx
 dynamips
+dynamips-debug
 fontpreview
 gnome-themes-extra-gtk2
 greetd-dms-greeter-bin
@@ -52,4 +53,5 @@ trackma-git
 ttf-tahoma
 ubridge
 vpcs
+vpcs-debug
 wl-gammarelay

@@ -52,6 +52,7 @@ thorium-browser-bin
 trackma-git
 ttf-tahoma
 ubridge
+ubridge-debug
 vpcs
 vpcs-debug
 wl-gammarelay

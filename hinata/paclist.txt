@@ -101,7 +101,7 @@ hyprsunset
 imagemagick
 inetutils
 intel-media-driver
-intellij-idea-community-edition
+intellij-idea-oss
 inter-font
 inxi
 iperf3

@@ -43,6 +43,7 @@ python-libloot-debug
 rider
 rpcs3-git
 rusty-path-of-building
+rusty-path-of-building-debug
 screamingfrogseospider-jre
 sunshine-git
 syncthing-bin

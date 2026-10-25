@@ -18,6 +18,8 @@ dynamips
 dynamips-debug
 fontpreview
 gnome-themes-extra-gtk2
+gpu-unlock-dkms
+gpu-unlock-firmware
 greetd-dms-greeter-bin
 greetd-dms-greeter-bin-debug
 greetd-regreet-git

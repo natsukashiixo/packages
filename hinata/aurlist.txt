@@ -42,12 +42,14 @@ protonhax
 python-anitopy-git
 python-libloot
 python-libloot-debug
+python-lockfile
 rider
 rpcs3-git
 rusty-path-of-building
 rusty-path-of-building-debug
 screamingfrogseospider-jre
 sunshine-git
+sunshine-git-debug
 syncthing-bin
 syncthing-bin-debug
 systester

@@ -47,7 +47,6 @@ dhcpcd
 djvulibre
 dkms
 dmidecode
-dms-shell
 docker
 docker-buildx
 docker-compose
@@ -55,6 +54,7 @@ dosbox
 dosfstools
 dotnet-sdk
 dunst
+dux-shell
 easyeffects
 efibootmgr
 ethtool

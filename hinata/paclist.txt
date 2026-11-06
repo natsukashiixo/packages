@@ -234,6 +234,7 @@ swappy
 terraform
 thunar
 thunar-archive-plugin
+tigervnc
 traceroute
 transmission-qt
 tree
@@ -301,6 +302,7 @@ uv
 uwsm
 vesktop-bin
 vim
+virt-viewer
 visidata
 vivaldi
 vlc

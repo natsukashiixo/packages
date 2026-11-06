@@ -1,5 +1,6 @@
 ansible-lint
 cookiecutter
 gns3-server
+gns3-webclient-pack
 llm
 tldr

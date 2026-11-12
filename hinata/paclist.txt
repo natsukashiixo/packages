@@ -35,6 +35,7 @@ calf
 cava
 chromium
 cifs-utils
+cloc
 cmake
 cmatrix
 code

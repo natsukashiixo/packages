@@ -24,6 +24,7 @@ gpu-unlock-firmware
 greetd-dms-greeter-bin
 greetd-dms-greeter-bin-debug
 greetd-regreet-git
+greetd-regreet-git-debug
 gtk-engines
 gtk-sharp-2
 heynote

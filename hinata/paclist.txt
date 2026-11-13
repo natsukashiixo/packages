@@ -143,6 +143,7 @@ lsp-plugins
 lutris
 lzip
 man-db
+mariadb-clients
 matugen
 mediainfo
 megacmd

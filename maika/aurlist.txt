@@ -9,3 +9,4 @@ litehtml0.9
 proton-ge-custom-bin
 protonhax
 rpcs3-git
+vacuumtube

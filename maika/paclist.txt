@@ -190,6 +190,7 @@ socat
 sof-firmware
 starship
 steam
+streamlink
 sudo
 sunshine-git
 swayosd

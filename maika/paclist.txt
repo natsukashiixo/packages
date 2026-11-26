@@ -172,6 +172,7 @@ protonplus
 pv
 python
 python-defusedxml
+python-mutagen
 python-packaging
 python-requests
 rebuild-detector
@@ -184,6 +185,7 @@ s-nail
 sddm
 sg3_utils
 shelly
+skk-jisyo
 slurp
 smartmontools
 socat

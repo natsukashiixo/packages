@@ -150,6 +150,7 @@ megacmd
 mesa-utils
 mono
 mono-msbuild
+moonlight-qt
 moreutils
 mpv
 mtr
